@@ -22,7 +22,7 @@ margin-bottom: auto;
 }
 table {
     border-collapse: collapse;
-    width: 50%;
+    width:600px;
   }
   th, td {
     border: 1px solid rgb(33, 31, 31);
