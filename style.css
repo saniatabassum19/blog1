@@ -21,7 +21,7 @@ margin-bottom: auto;
     align-items: center;
 }
 table {
-     
+    border-collapse: collapse;
     width: 50%;
   }
   th, td {
